@@ -11,6 +11,9 @@ typedef enum
     COMPUTER_SCIENCE
 } Category;
 
+set(SOURCES str.c main.c)
+set(HEADERS str.h)
+
 
 typedef struct
 {
