@@ -2,5 +2,6 @@
     "C_Cpp.errorSquiggles": "disabled",
     "files.associations": {
         "str.h": "c"
-    }
+    },
+    "cmake.sourceDirectory": "C:/Users/dokoe/Documents/Development/3. Semester/C/Hausübung/ue01-dokoe92"
 }
